@@ -5,6 +5,10 @@
 
 local natsuki = {}
 
+natsuki.new = function()
+    
+end
+
 return natsuki
 
 --[[
