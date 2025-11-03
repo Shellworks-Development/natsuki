@@ -1,3 +1,8 @@
+-- natsuki
+-- src/init.luau
+-- (C) Shellworks Development, All rights reserved, 2025
+-- Refer to LICENSE.md for license information.
+
 local natsuki = {}
 
 return natsuki
