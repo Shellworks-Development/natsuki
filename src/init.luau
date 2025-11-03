@@ -5,7 +5,12 @@
 
 local natsuki = {}
 
-natsuki.new = function()
+natsuki.newMetaCharacter = function(Humanoid: Humanoid, Animator: Animator, Weapon)
+    
+end
+
+-- Create a new enemy
+natsuki.newEnemy = function(Character)
     
 end
 

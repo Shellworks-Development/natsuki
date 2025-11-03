@@ -17,12 +17,12 @@ Natsuki is a **NPC module**
 Right now… well, it’s mostly just a framework.
 
 <h3>Features (so far)</h3>
-- Nothing, I'm serious
+- Nothing, I'm serious<br/>
 - I have had nothing done.
 
 <h3>To Be Done</h3>
-- Breathing Air
-- Taxes
+- Breathing Air<br/>
+- Taxes<br/>
 - Cancel my 15 subscriptions
 
 > Sad fact: Apparently no one likes Natsuki? I don't know.
