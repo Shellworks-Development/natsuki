@@ -17,14 +17,13 @@ Natsuki is a **NPC module**
 Right now… well, it’s mostly just a framework.
 
 <h3>Features (so far)</h3>
-- Eagles Can Fly
+- Nothing, I'm serious
+- I have had nothing done.
 
 <h3>To Be Done</h3>
-- Full AI behaviors
-
-- Combat system
-  
-- Reactions to players (cupcakes optional)
+- Breathing Air
+- Taxes
+- Cancel my 15 subscriptions
 
 > Sad fact: Apparently no one likes Natsuki? I don't know.
 
